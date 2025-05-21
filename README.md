@@ -19,27 +19,41 @@ Data Scientist with 8+ years of experience turning data into business results. I
 - 🏆 Delivered 20-25% performance improvements through data-driven solutions
 
 ## 🛠️ Technical Skills
-
-**Languages:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-**ML & AI:** 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**BI Tools:** 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![SAP BO](https://img.shields.io/badge/SAP_BO-0FAAFF?style=flat&logo=sap&logoColor=white)
-
-**Data Systems:** 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+<table>
+  <tr>
+    <td width="150"><strong>Languages</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML & AI</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>BI Tools</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/SAP_BO-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP Business Objects"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Systems</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black" alt="Hadoop"/></a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Areas of Expertise
 
