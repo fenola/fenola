@@ -104,9 +104,9 @@ Data Scientist with 8+ years of experience turning data into business results. I
 
 ## 🎓 Education
 
-- **MSc, Data Science (Computational Track)** - New Jersey Institute of Technology (Expected 2024)
-- **Diploma, Computer Science** - Nigerian Institute of Computer Science (2008)
+- **MSc, Data Science (Computational Track)** - New Jersey Institute of Technology (2024)
 - **BSc, Mathematics & Statistics** - University of Lagos (2009)
+- **Diploma, Computer Science** - National Institute of Information Technology(NIIT) (2005)
 
 ## 📫 Let's Connect
 
