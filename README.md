@@ -1,114 +1,80 @@
-# Ibrahim Fenola | Data Scientist & AI Strategist
+# Ibrahim Fenola | Supply Chain Analytics & Planning Specialist
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimfenola)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibolayinka@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
 
 </div>
 
 ## 👨‍💻 About Me
 
-Data Scientist with 8+ years of experience turning data into business results. I build predictive models, develop optimization algorithms, and create data-driven solutions that improve performance and reduce costs. Currently at TotalEnergies, I use machine learning and analytics to solve complex business problems.
+Supply Chain Senior Analyst with 8+ years of experience in demand/supply planning, manufacturing operations analytics, and data-driven process optimization. I specialize in developing KPI dashboards, implementing advanced analytics solutions, and driving supply chain performance improvements. Currently focused on applying machine learning and business intelligence to solve complex manufacturing and healthcare supply chain challenges.
 
-- 🔭 Currently leading **predictive analytics and ML projects** at **TotalEnergies**
-- 🌱 Expert in **machine learning**, **forecasting**, and **optimization algorithms**
-- 🎓 MSc in **Data Science** (Computational Track) from **NJIT**
-- 💡 Skilled at translating technical insights into business strategies
-- 🏆 Delivered 20-25% performance improvements through data-driven solutions
+- 📊 Expert in **demand forecasting** and **inventory optimization**
+- 🏭 Specialized in **manufacturing operations analytics** and **process improvement**
+- 🩺 Passionate about **healthcare supply chain** optimization and patient impact
+- 🔍 Advanced skills in **data harmonization** and **business intelligence**
+- 📈 Proven track record of **25% forecast improvement** and **20% cost reduction**
 
 ## 🛠️ Technical Skills
-<table>
-  <tr>
-    <td width="150"><strong>Languages</strong></td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>ML & AI</strong></td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>BI Tools</strong></td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/SAP_BO-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP Business Objects"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data Systems</strong></td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black" alt="Hadoop"/></a>
-    </td>
-  </tr>
-</table>
 
-## 📊 Areas of Expertise
+### 📈 Supply Chain & Planning
+`Demand Planning` `Supply Planning` `IBP` `Inventory Optimization` `Scrap Analysis` `OOO Tracking` `KPI Development`
 
-- **Machine Learning**: Predictive models, time series forecasting, classification algorithms
-- **Data Analysis**: Statistical modeling, pattern recognition, anomaly detection
-- **Business Intelligence**: Interactive dashboards, KPI development, automated reporting
-- **Optimization**: Algorithm development, resource allocation, efficiency improvement
-- **Data Engineering**: ETL pipelines, data integration, quality management
-- **Strategic Implementation**: Translating data insights into business strategies
+### 💻 Analytics & Data Science
+`Python` `SQL` `R` `Machine Learning` `Statistical Analysis` `Predictive Modeling` `Time Series Forecasting`
 
-## 🚀 Key Projects
+### 🏗️ Databases & Systems
+`Snowflake` `SQL Server` `Oracle` `MongoDB` `SAP` `ERP Systems` `Data Architecture` `ETL Pipelines`
 
-### Predictive Analytics Platform
-- **Technologies**: Python, Machine Learning, PowerBI
-- **Impact**: 20% cost reduction through data-driven decisions
-- **Key Features**:
-  - Custom optimization algorithms
-  - Real-time data integration
-  - Interactive executive dashboards
-  - Scenario modeling capabilities
+### 📊 Business Intelligence
+`Power BI` `Tableau` `Qlik` `Dashboard Development` `Data Visualization` `Automated Reporting`
 
-### Machine Learning Forecasting System
-- **Technologies**: Python, LSTM, ARIMA, Prophet
-- **Impact**: 25% improvement in forecast accuracy for $35M operations
-- **Key Features**:
-  - Multi-model ensemble approach
-  - Automated data quality checks
-  - Dynamic feature engineering
-  - Enterprise system integration
+### 🏭 Manufacturing Operations
+`Process Analysis` `Quality Systems` `Manufacturing Analytics` `Regulatory Compliance` `Lean Manufacturing`
 
-### Network Performance Optimization (Nokia/Huawei, 2015-2020)
-- **Technologies**: Python, Statistical Modeling, ML Algorithms
-- **Impact**: 25% performance improvement through analytics
-- **Key Achievements**:
-  - Developed predictive algorithms
-  - Created early warning system
-  - Led data integration initiatives
-  - Implemented analytics framework
+## 🚀 Key Supply Chain Solutions
 
-## 📝 Professional Highlights
+### Advanced Demand Forecasting Platform
+- **Technologies**: Python, Machine Learning, SAP Integration, Power BI
+- **Impact**: 25% reduction in forecast errors, improved inventory turnover
+- **Features**: ML-powered forecasting, real-time data integration, automated reporting
+
+### Manufacturing Operations Analytics
+- **Technologies**: Statistical Analysis, Process Mining, Real-time Monitoring
+- **Impact**: 20% cost reduction through operational consolidation
+- **Features**: Scrap tracking, process monitoring, efficiency analysis, KPI dashboards
+
+### Integrated Business Planning (IBP) System
+- **Technologies**: SAP, Business Intelligence, Data Integration
+- **Impact**: Consolidated 5 facilities to 2 strategic locations
+- **Features**: Demand/supply balancing, inventory projection, performance monitoring
+
+## 📊 Professional Highlights
 
 - **Reduced forecast errors by 25%** through machine learning models
 - **Consolidated operations** from 5 to 2 locations, saving 20% in costs
-- **Developed automated dashboards** providing real-time insights to executives
-- **Led cross-functional teams** implementing data-driven decision systems
-- **Created reusable model framework** adopted across multiple departments
+- **Developed automated dashboards** providing real-time supply chain visibility
+- **Led cross-functional teams** implementing data-driven planning systems
+- **Created reusable analytics framework** adopted across multiple departments
 
-## 🎓 Education
+## 🏥 Healthcare Industry Focus
 
-- **MSc, Data Science (Computational Track)** - New Jersey Institute of Technology (2024)
-- **BSc, Mathematics & Statistics** - University of Lagos (2009)
-- **Diploma, Computer Science** - National Institute of Information Technology(NIIT) (2005)
+I'm passionate about applying supply chain analytics expertise to healthcare and medical device manufacturing, where accurate planning and quality operations directly impact patient outcomes. My experience in regulated manufacturing environments provides a strong foundation for healthcare industry requirements.
+
+## 🎯 Current Interests
+
+- Healthcare supply chain analytics and optimization
+- Medical device demand planning and inventory management
+- Advanced manufacturing analytics and Industry 4.0 applications
+- Supply chain sustainability and ESG metrics
+- AI/ML applications in healthcare manufacturing
 
 ## 📫 Let's Connect
 
-I'm interested in discussing AI strategy, machine learning implementation, or data science opportunities. Feel free to reach out!
+I'm interested in discussing supply chain analytics opportunities, healthcare industry applications, and collaborative projects that leverage data science to improve manufacturing operations and patient outcomes.
 
 - **LinkedIn**: [linkedin.com/in/ibrahimfenola](https://www.linkedin.com/in/ibrahimfenola)
 - **Email**: [ibolayinka@gmail.com](mailto:ibolayinka@gmail.com)
