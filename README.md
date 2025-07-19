@@ -1,4 +1,4 @@
-# Ibrahim Fenola | Principal Solution Architect & Security Specialist
+# Ibrahim Fenola | Data Scientist & Supply Chain Analytics Specialist
 
 <div align="center">
   
@@ -10,73 +10,114 @@
 
 ## 👨‍💻 About Me
 
-Principal Solution Architect with 8+ years of experience designing enterprise data protection solutions and security architectures. I specialize in translating complex business requirements into robust technical solutions, with expertise in consultative sales, stakeholder engagement, and presenting to C-level executives. Currently focused on data protection, cybersecurity, and enterprise system integration.
+Data Analytics & Supply Chain Optimization specialist with 8+ years of cross-industry experience leveraging advanced analytics to drive strategic business outcomes. My expertise combines data science fundamentals with practical implementation in complex operational environments.
 
-- 🔐 Expert in **data protection solutions** and **security architecture**
-- 🏗️ Specializing in **enterprise solution design** and **technical consultation**
-- 🎯 Proven track record in **pre-sales technical support** and **customer engagement**
-- 📊 Strong background in **data analytics** and **network security**
-- 🎓 MSc in **Data Science** with focus on security analytics
+- 🔭 Currently working as a **Supply Chain Analytics Specialist** at **TotalEnergies**
+- 🌱 Specializing in **inventory optimization** and **demand forecasting**
+- 🎓 MSc in **Data Science** (Computational Track) from **NJIT**
+- 💡 Passionate about transforming raw data into actionable business insights
+- 🏆 Reduced forecast errors by 25% and operational costs by 20% through data-driven solutions
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Toolkit
 
-### 💻 Programming & Development
-`Python` `SQL` `Java` `C++` `R` `REST APIs` `SOAP APIs` `Shell Scripting`
+<table>
+  <tr>
+    <td><strong>Languages & Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Science & ML</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>BI & Visualization</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
+      <img src="https://img.shields.io/badge/SAP_BO-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP Business Objects"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
+    </td>
+  </tr>
+</table>
 
-### 🔒 Security & Compliance
-`Data Encryption` `Key Management` `API Security` `Identity Management` `Access Control` `Compliance Frameworks`
+## 📊 Areas of Expertise
 
-### 🏢 Enterprise Technologies
-`Oracle` `SAP Business Objects` `MongoDB` `Hadoop` `Data Warehousing` `System Integration`
+- **Supply Chain Analytics**: Inventory optimization, demand forecasting, network design, logistics optimization
+- **Machine Learning**: Time series forecasting, classification algorithms, supervised learning, deep learning
+- **Data Engineering**: ETL pipeline development, data warehouse design, data quality management
+- **Business Intelligence**: Dashboard development, KPI design, automated reporting, data storytelling
+- **Process Optimization**: Linear programming, constraint-based optimization, simulation modeling
 
-### ☁️ DevOps & Infrastructure
-`CI/CD` `Docker` `Kubernetes` `Secrets Management` `Network Security` `Cloud Security`
+## 🚀 Key Projects & Experience
 
-### 📊 Analytics & Visualization
-`PowerBI` `Tableau` `Statistical Analysis` `Predictive Modeling` `Executive Dashboards`
+### Supply Chain Optimization Platform
+- **Technologies**: Python, Mixed-Integer Programming, SAP Integration
+- **Impact**: Reduced operational costs by 20% through multi-echelon inventory optimization
+- **Features**:
+  - Custom optimization algorithms for multi-location distribution
+  - Real-time data integration with SAP
+  - Interactive scenario planning capability
+  - Full-stack implementation (backend optimization + frontend visualization)
 
-## 🚀 Key Solution Areas
+### ML-Powered Demand Forecasting
+- **Technologies**: Python, LSTM, ARIMA, Prophet, PowerBI
+- **Impact**: Reduced forecast errors by 25% across warehouses managing $35M inventory
+- **Features**:
+  - Ensemble approach combining traditional statistical and deep learning models
+  - Automated anomaly detection for data quality
+  - Dynamic feature engineering based on product hierarchies
+  - Integrated with existing planning systems
 
-### Enterprise Data Protection Architecture
-- **Challenge**: Multinational energy company needed comprehensive data protection across $35M+ operations
-- **Solution**: Designed multi-layer security architecture with encryption, key management, and compliance monitoring
-- **Impact**: 25% improvement in security posture, 40% reduction in manual security processes
-- **Technologies**: Python, Oracle, REST APIs, Encryption Libraries, SAP Integration
+### Network Optimization at Nokia/Huawei (2015-2020)
+- **Technologies**: Statistical modeling, Python, Radio network algorithms
+- **Impact**: Improved network capacity by 25% through data-driven optimization
+- **Achievements**:
+  - Developed custom algorithms for radio network KPI optimization
+  - Created automated anomaly detection system identifying issues 24 hours before traditional methods
+  - Led cross-functional teams integrating data across multiple systems
+  - Produced comprehensive technical documentation and knowledge transfer
 
-### Network Security Analytics Platform
-- **Challenge**: Telecommunications infrastructure required proactive threat detection and vulnerability management
-- **Solution**: Developed predictive security analytics framework with automated threat detection
-- **Impact**: 25% improvement in threat detection, early identification of security vulnerabilities
-- **Technologies**: Python, Machine Learning, Network Monitoring, Statistical Analysis
+## 📝 Selected Publications & Presentations
 
-### Secure Enterprise Integration
-- **Challenge**: Complex multi-system environment needed secure, scalable integration platform
-- **Solution**: Architected secure API gateway with comprehensive access controls and monitoring
-- **Impact**: Consolidated 5 systems into unified architecture while improving security compliance
-- **Technologies**: Python, Java, API Security, Database Encryption, Access Management
+- **"Multi-Echelon Inventory Optimization in Chemical Supply Chains"** - TotalEnergies Engineering Conference (2023)
+- **"Machine Learning Applications in Demand Forecasting"** - NJIT Data Science Symposium (2023)
+- **"Network Optimization Techniques for Telecommunications"** - Nokia Technical Review (2019)
 
-## 📝 Technical Leadership
+## 🎓 Education & Certifications
 
-- **Solution Architecture**: Designed comprehensive data protection solutions for enterprise environments
-- **Customer Engagement**: Led technical requirements sessions with C-level stakeholders and decision makers
-- **Technical Consultation**: Provided pre-sales technical support and competitive analysis for security solutions
-- **Team Leadership**: Managed cross-functional teams implementing complex technical solutions
-- **Knowledge Transfer**: Created technical documentation and delivered workshops on security best practices
+- **MSc, Data Science (Computational Track)** - New Jersey Institute of Technology (Expected 2024)
+- **Diploma, Computer Science** - Nigerian Institute of Computer Science (2008)
+- **BSc, Mathematics & Statistics** - University of Lagos (2009)
+- **Certified in Data Science & Machine Learning** - NJIT Professional Development
 
-## 🎯 Professional Focus
+## 🔄 Professional Experience Journey
 
-I'm passionate about helping organizations protect their critical data assets through innovative technical solutions. My approach combines deep technical expertise with strong business acumen to deliver solutions that meet both security requirements and business objectives.
-
-**Current Interests:**
-- Enterprise data protection and privacy solutions
-- Zero-trust security architectures
-- API security and authentication frameworks
-- Cloud security and hybrid infrastructure protection
-- DevSecOps and automated security integration
+```mermaid
+graph LR
+    A[Huawei<br>Data Analyst<br>2015-2017] --> B[Nokia<br>Data Scientist<br>2018-2020]
+    B --> C[TotalEnergies<br>Inventory Planning Manager<br>2022-2023]
+    C --> D[TotalEnergies<br>Supply Chain Analytics Specialist<br>2023-Present]
+```
 
 ## 📫 Let's Connect
 
-I'm interested in discussing enterprise security challenges, solution architecture opportunities, and technical consulting projects. Always open to connecting with fellow security professionals and potential collaborators.
+I'm always interested in collaborating on projects related to data science, supply chain optimization, or machine learning. Feel free to reach out!
 
 - **LinkedIn**: [linkedin.com/in/ibrahimfenola](https://www.linkedin.com/in/ibrahimfenola)
 - **Email**: [ibolayinka@gmail.com](mailto:ibolayinka@gmail.com)
