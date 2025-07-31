@@ -102,7 +102,7 @@ Data Analytics & Supply Chain Optimization specialist with 8+ years of cross-ind
 ## 🎓 Education & Certifications
 
 - **MSc, Data Science (Computational Track)** - New Jersey Institute of Technology (Expected 2024)
-- **Diploma, Computer Science** - Nigerian Institute of Computer Science (2008)
+- **Diploma, Computer Science** - National Institute of Information Technology (2005)
 - **BSc, Mathematics & Statistics** - University of Lagos (2009)
 - **Certified in Data Science & Machine Learning** - NJIT Professional Development
 
