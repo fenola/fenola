@@ -133,7 +133,7 @@ Leading analytics and optimization for $35M specialty chemicals operation:
 
 *Career Progression: Drive Test Engineer → Team Lead → Network Optimization Engineer → Senior RAN Specialist*
 
-Led data-driven optimization of 500+ cell sites across 3G/4G/5G networks:
+Led data-driven optimization of 1500+ cell sites across 2G/3G/4G/5G networks:
 
 **Data Science & Analytics:**
 - Built predictive models analyzing 10M+ network performance records daily
@@ -198,7 +198,7 @@ End-to-end ML system for network performance optimization:
 
 ### 📦 Supply Chain Optimization Engine
 **Stack:** Python, Mixed-Integer Programming, scipy.optimize, SAP Integration  
-**Impact:** $700K annual cost savings, 20% operational cost reduction
+**Impact:** $2.7M annual cost savings, 20% operational cost reduction
 
 Multi-echelon inventory optimization system:
 - **Optimization Algorithm:** Custom LP/MIP solver for multi-location distribution
