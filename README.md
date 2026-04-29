@@ -251,7 +251,7 @@ Security-focused monitoring and analytics for telecommunications infrastructure:
 ---
 
 **Bachelor of Science in Mathematics & Statistics**  
-*University of Lagos* | Graduated 2009
+*University of Lagos* | **Graduated 2009**
 
 ---
 
@@ -268,7 +268,6 @@ Security-focused monitoring and analytics for telecommunications infrastructure:
 - Splunk Core Certified User
 
 ---
-
 ## 💡 What Makes Me Different
 
 ### 🎯 The Unique Combination
@@ -298,7 +297,6 @@ Most data scientists work in one domain. I bring **deep expertise across three c
 - See security, performance, and business optimization holistically
 
 ---
-
 ## 🔬 Areas of Interest & Active Learning
 
 ```python
@@ -336,7 +334,6 @@ professional_interests = {
     ]
 }
 ```
-
 ---
 
 ## 📝 Writing & Thought Leadership
@@ -358,7 +355,6 @@ professional_interests = {
 ---
 
 ## 🌐 Technical Knowledge Domains
-
 ### Data Science & ML
 `Supervised Learning` `Unsupervised Learning` `Deep Learning` `Time Series` `NLP` `Computer Vision` `Feature Engineering` `Model Deployment` `A/B Testing` `Causal Inference` `Bayesian Statistics` `Ensemble Methods`
 
@@ -382,7 +378,6 @@ professional_interests = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenola&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
-
 ---
 
 ## 🤝 Open To Opportunities
@@ -390,7 +385,6 @@ professional_interests = {
 I'm interested in roles where I can leverage my unique combination of data science expertise and deep domain knowledge:
 
 ### 🎯 Primary Interests
-
 **Data Science & Analytics:**
 - Senior Data Scientist / Staff Data Scientist
 - Machine Learning Engineer
@@ -419,9 +413,7 @@ I'm interested in roles where I can leverage my unique combination of data scien
 - Career transitions in data science
 - Building production ML systems
 - AI automation and intelligent agents
-
 ---
-
 <div align="center">
 
 ### 📫 Connect With Me
@@ -431,11 +423,8 @@ I'm interested in roles where I can leverage my unique combination of data scien
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fenola)
 
 ---
-
 **"Turning Complex Data into Clear Insights, Complex Systems into Secure Operations"**
-
 ---
-
 ![Profile Views](https://komarev.com/ghpvc/?username=fenola&color=brightgreen&style=for-the-badge)
 
 </div>
