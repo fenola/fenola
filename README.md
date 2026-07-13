@@ -1,54 +1,81 @@
 # Ibrahim Fenola
-## Data Scientist | Network Analytics Specialist | Telecommunications & Supply Chain Domain Expert
+## Data Scientist | ML Engineering • Customer & Marketing Analytics • Supply Chain Optimization • Network Intelligence
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimfenola)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibolayinka@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/ibrahimfenola)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fenola)
 
-**Transforming Complex Systems Through Data-Driven Analytics**  
-*12+ Years Cross-Industry Experience | Telecommunications • Supply Chain • Security Analytics*
+**Turning Complex Data Into Decisions That Move Revenue, Customers & Operations**
+
+*12+ Years | 3 Industries | $2.4M+ Quantified Business Impact | Production ML Systems*
 
 </div>
 
 ---
 
-## 🎯 Professional Summary
+## 🧭 Career Journey
 
-Data Scientist and Analytics Specialist with unique cross-domain expertise spanning **telecommunications network optimization** (12 years), **supply chain analytics** (current), and **security analytics** (emerging focus). Proven track record building predictive models, real-time monitoring systems, and AI-powered automation that deliver measurable business impact.
+```mermaid
+timeline
+    title From Network Signals to Business Signals — A Data Science Evolution
+    2010-2022 : Telecommunications (Nokia, Ericsson, Huawei)
+              : RAN Optimization → Network Analytics
+              : 10M+ records daily, 1500+ cell sites
+              : Built statistical & ML foundations at massive scale
+    2022-2024 : Career Pivot + MS Data Science (NJIT)
+              : Supply Chain Analytics at TotalEnergies
+              : Demand forecasting, inventory optimization
+              : Graduated May 2024, GPA 3.6
+    2023-Now  : Planning Manager — Full-Stack Data Science
+              : Customer analytics & campaign optimization
+              : Production ML, AI agents, executive analytics
+              : $2.4M business value delivered
+    Next      : Senior/Staff Data Scientist
+              : Marketing Science • GenAI Applications
+              : Building systems that scale decisions
+```
 
-**Key Differentiators:**
-- 🔐 **Rare Combination:** Deep technical domain knowledge (RAN architecture, network security) + advanced data science capabilities
-- 📊 **Proven Impact:** $2.7M cost savings, 25% forecast accuracy improvement, 30% reduction in operational issues
-- 🤖 **AI Implementation:** Hands-on experience building production ML models and AI automation agents
-- 🏆 **Leadership:** Managed cross-functional projects, mentored teams, presented to C-suite executives
+> **The thread connecting it all:** Every role has been about the same core problem — *extracting signal from noisy, high-volume data and converting it into decisions with measurable financial impact.* The domains changed; the discipline didn't.
 
 ---
 
-## 💼 What I Do
+## 🎯 What I Bring
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📊 Data Science & Analytics
-- **Machine Learning:** Time series forecasting, anomaly detection, classification, deep learning (LSTM, neural networks)
-- **Predictive Analytics:** Demand forecasting, capacity planning, risk modeling
-- **Statistical Modeling:** Hypothesis testing, A/B testing, causal inference, regression analysis
-- **Big Data Processing:** Handling 10M+ record datasets, real-time data streams
-- **Optimization:** Linear programming, constraint-based optimization, simulation
-- **NLP & AI Agents:** Building intelligent automation using LLMs and custom agents
+### 📊 Marketing & Customer DS
+- Propensity modeling & lead scoring (AUC-ROC 0.87)
+- Customer segmentation (k-means, hierarchical, RFM)
+- A/B testing & experimentation (power analysis, p < 0.05)
+- Multi-touch attribution & campaign ROI
+- Churn prediction & CLV modeling
+- Causal inference (PSM, diff-in-diff)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏭 Domain Expertise
-- **Telecommunications:** RAN optimization (1500+ cell sites), network security, 5G architecture, 4G & 3G architecture
-- **Supply Chain:** Inventory optimization, demand forecasting, multi-echelon networks
-- **Security Analytics:** SIEM-ready analytics, threat detection, anomaly identification
-- **Business Intelligence:** Dashboard development, KPI design, executive reporting
-- **Process Optimization:** Operational efficiency, cost reduction, performance improvement
+### 📦 Supply Chain Analytics
+- Demand forecasting (ARIMA, Prophet, LSTM, XGBoost ensembles)
+- Multi-echelon inventory optimization (MIP/LP)
+- S&OP / IBP process analytics
+- Forecast accuracy: 25% improvement (MAPE 18%→13.5%)
+- Network consolidation: $1.1M annual savings
+- ABC/XYZ classification at 1,500+ SKU scale
+
+</td>
+<td width="33%" valign="top">
+
+### 📡 Network Intelligence
+- Large-scale time-series analytics (10M+ records/day)
+- Anomaly detection (30% downtime reduction)
+- Capacity forecasting & performance modeling
+- Multi-vendor RAN optimization (2G→5G)
+- Protocol-level data analysis
+- Real-time monitoring architecture
 
 </td>
 </tr>
@@ -56,320 +83,228 @@ Data Scientist and Analytics Specialist with unique cross-domain expertise spann
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ Technical Arsenal
 
-### Programming & Data Science
+### Core Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### ML & Deep Learning
+### Machine Learning & Statistics
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4899?style=flat&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0866FF?style=flat&logoColor=white)
 
-### Data Tools & Libraries
+### GenAI & LLM Tooling
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6236FF?style=flat&logoColor=white)
+![Copilot](https://img.shields.io/badge/MS_Copilot_Agents-7B68EE?style=flat&logoColor=white)
+
+### Data Engineering & Cloud
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-### BI & Visualization
+### BI, Visualization & Business Systems
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+---
 
-### Specialized Domain Tools
-![SAP](https://img.shields.io/badge/SAP_BO-0FAAFF?style=flat&logo=sap&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+## 📈 Impact Dashboard
+
+| Metric | Result | Domain |
+|--------|--------|--------|
+| 💰 Total quantified business value | **$2.4M+** | Cross-functional |
+| 📉 Annual cost reduction (network consolidation) | **$1.1M** | Supply Chain |
+| 🎯 Campaign response rate improvement | **+25%** (p < 0.05) | Marketing |
+| 📊 Forecast accuracy improvement | **MAPE 18% → 13.5%** | Supply Chain |
+| 🔮 Propensity model performance | **AUC-ROC 0.87** | Marketing |
+| ⚡ Network downtime reduction | **-30%** | Telecom |
+| 🤖 Manual analysis time saved via automation | **-40%** | All |
+| 📦 Inventory reduction | **$5M** ($13M → $8M) | Supply Chain |
+| 🗃️ Largest daily data volume handled | **10M+ records** | Telecom |
+| 👥 Customers/SKUs modeled | **1M+ / 1,500+** | Marketing/SC |
 
 ---
 
 ## 💼 Professional Experience
 
-### 📊 Analytics & Data Science Track
+### **Planning Manager | Data Science & Analytics Lead**
+📍 *TotalEnergies Specialties USA* | Nov 2023 – Present
 
-**Planning Manager | Data Analytics & Optimization**  
-📍 *TotalEnergies Specialties USA* | Nov 2023 - Present
+Full-stack data science across customer analytics, demand planning, and operations for a $35M multi-site operation:
 
-Leading analytics and optimization for $35M specialty chemicals operation:
-- Built ML forecasting models (XGBoost, LSTM, ARIMA) improving prediction accuracy by 25%
-- Created AI-powered automation agents using Microsoft Copilot for operational intelligence
-- Developed real-time monitoring dashboards tracking 20+ KPIs in Power BI
-- Led cross-functional teams (operations, finance, IT, procurement) delivering measurable outcomes
-- Applied causal inference techniques (propensity score matching, difference-in-differences) for impact analysis
-- Presented data-driven insights to C-suite executives influencing strategic decisions
+**Customer & Marketing Analytics:**
+- Built customer segmentation models (k-means with silhouette optimization, hierarchical clustering) on 1M+ records across 25+ behavioral/transactional features → **25% campaign response improvement** (statistically validated, p < 0.05)
+- Deployed propensity models (XGBoost, regularized logistic regression) predicting engagement, purchase likelihood, and churn risk → **AUC-ROC 0.87**, enabling precision targeting and spend optimization
+- Applied causal inference (propensity score matching, difference-in-differences) to isolate true campaign ROI from baseline noise
 
-**Key Projects:**
-- **Demand Forecasting System:** Ensemble ML model combining traditional statistics with deep learning, handling 1M+ rows of historical data
-- **Automated Anomaly Detection:** AI agents that monitor KPIs and trigger alerts on deviations
-- **Optimization Analytics:** $700K cost savings through data-driven network consolidation
+**Forecasting & Supply Chain Science:**
+- Lead demand planning for 1,500+ SKUs using ensemble forecasting (ARIMA, Prophet, LSTM, XGBoost) → **25% forecast accuracy improvement**
+- Drove multi-echelon network optimization (mixed-integer programming) → consolidated 5 warehouses to 2, **$1.1M annual savings**, **$5M inventory reduction**
+- Own S&OP KPI accountability: Forecast Accuracy, Bias, OTIF, Daily Sales Conformance — reported monthly to GM & CFO
 
----
-
-**Planning Analyst**  
-📍 *TotalEnergies Specialties USA* | Aug 2022 - Nov 2023
-
-- Architected and led $13M enterprise consolidation delivering $700K annual savings
-- Built predictive analytics models for inventory optimization and capacity planning
-- Created automated ETL pipelines reducing manual processing time by 40%
-- Designed Power BI dashboards providing real-time operational visibility
+**AI & Automation Engineering:**
+- Built AI agents (LLM integration, Microsoft Copilot) for anomaly detection, forecast validation, and operational intelligence → **40% reduction in manual analysis time**
+- Designed automated ETL pipelines (Python, SQL) processing 100K+ daily transactions with data quality validation (99.9% SLA)
+- Architected Power BI executive dashboards: 20+ KPIs, 15-minute refresh, drill-down analytics
 
 ---
 
-### 📡 Telecommunications & Network Analytics Track
+### **Planning Analyst | Analytics & Optimization**
+📍 *TotalEnergies Specialties USA* | Aug 2022 – Nov 2023
 
-**RAN Optimization Engineer | Network Analytics Specialist**  
-📍 *Nokia (2010-2022) | Ericsson | Huawei* | 12 Years Total Experience
+- Architected $13M enterprise consolidation analysis delivering **$1.1M annual savings**
+- Built baseline predictive models (regression family, tree ensembles) with automated forecast error tracking (MAPE 18%)
+- Developed RFM segmentation framework for 1M+ customer records
+- Created automated ETL reducing manual processing **40%**
 
-*Career Progression: Drive Test Engineer → Team Lead → Network Optimization Engineer → Senior RAN Specialist*
+---
 
-Led data-driven optimization of 1500+ cell sites across 2G/3G/4G/5G networks:
+### **RAN Optimization Engineer → Senior Network Analytics Specialist**
+📍 *Nokia | Ericsson | Huawei* | 2010 – 2022
 
-**Data Science & Analytics:**
-- Built predictive models analyzing 10M+ network performance records daily
-- Developed anomaly detection system identifying issues 24 hours in advance (30% downtime reduction)
-- Created automated monitoring dashboards tracking network KPIs in real-time
-- Applied statistical methods for capacity forecasting and performance optimization
-- Wrote Python automation reducing manual analysis time by 40%
+*Progression: Drive Test Engineer → Team Lead → Network Optimization Engineer → Senior RAN Specialist*
 
-**Network Domain Expertise:**
-- Multi-vendor environment (Nokia, Ericsson, Huawei) - 2G/3G/4G/5G technologies
-- Protocol analysis (GTP, Diameter, S1, X2) for performance and security
-- Cell Site Router management and backhaul optimization
-- Network architecture understanding (RAN, EPC, 5GC, IMS)
-- Cross-functional collaboration with engineering, operations, and IT teams
+12 years building analytics at telecommunications scale across 2G/3G/4G/5G networks:
 
-**Security-Relevant Work:**
-- Configuration compliance monitoring and validation
-- Network behavior baseline establishment and anomaly detection
-- Protocol-level analysis identifying potential vulnerabilities
-- Access control and authentication monitoring
-- Built monitoring systems for security event correlation
+- Engineered predictive models on **10M+ daily performance records** from **1,500+ cell sites** in multi-vendor environments
+- Built anomaly detection identifying network issues **24 hours in advance** → **30% downtime reduction**
+- Developed capacity forecasting models with ensemble methods → **MAPE 12%, R² 0.92** on 6-month backtesting
+- Implemented full MLOps discipline before it had a name: automated feature engineering (25+ features), hyperparameter tuning, k-fold + time-series cross-validation, drift monitoring, retraining triggers
+- Statistical experimentation at scale: designed controlled tests (t-tests, chi-square, 80% power, α=0.05) before rollouts affecting **2M+ end users**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Automation Suite
-**Stack:** Python, Microsoft Copilot, Custom AI Agents, LLMs  
-**Impact:** 40% reduction in manual analysis time
+### 🎯 Customer Propensity & Campaign Optimization Engine
+**Stack:** Python · XGBoost · scikit-learn · SHAP · Power BI
+**Impact:** +25% campaign response · $1.1M annual savings · 40% CAC reduction
 
-Built intelligent automation agents for operational analytics:
-- **Email Intelligence Agent:** NLP-based parsing and categorization of operational requests
-- **Forecast Validation Agent:** Compares predicted vs. actual outcomes, auto-triggers alerts
-- **Anomaly Detection Agent:** Monitors KPIs and identifies deviations requiring action
-- **Configuration Compliance Agent:** Automated validation against standards
-
-**Applications:**
-- Supply Chain: Inventory exception management, demand signal detection
-- Telecom Security: Configuration drift detection, baseline monitoring
-- General Analytics: Automated report generation, insight extraction
+End-to-end propensity system: multi-source data integration (CRM, transactions, behavioral), engineered features (RFM scores, purchase velocity, seasonality, price sensitivity), imbalanced classification handling (SMOTE, class weighting), model explainability via SHAP values for stakeholder trust, and expected-ROI-ranked targeting. Validated with chi-square significance testing and 95% confidence intervals.
 
 ---
 
-### 📊 Predictive Analytics Platform (Telecommunications)
-**Stack:** Python, TensorFlow, Scikit-learn, Time Series Analysis  
-**Impact:** 30% reduction in network downtime, 25% capacity improvement
+### 📊 Ensemble Demand Forecasting Platform
+**Stack:** Python · Prophet · LSTM (TensorFlow) · ARIMA · XGBoost · SAP integration
+**Impact:** MAPE 18% → 13.5% · Reduced safety stock requirements · Feeds S&OP cycle
 
-End-to-end ML system for network performance optimization:
-- **Data Pipeline:** Real-time ingestion of 10M+ daily records from network management systems
-- **Feature Engineering:** 25+ engineered features including lagged variables, rolling statistics, seasonality
-- **Models:** Ensemble approach combining ARIMA, Prophet, LSTM, XGBoost
-- **Validation:** K-fold cross-validation, time series split, 6-month backtesting
-- **Deployment:** Automated retraining, monitoring, alerting
-
-**Technical Highlights:**
-- Handled missing data (imputation strategies), outlier detection (IQR method)
-- Hyperparameter tuning (grid search, random search)
-- Achieved MAPE of 12%, R-squared of 0.92 on validation set
-- Production deployment with automated monitoring
+Production forecasting for 1,500+ SKUs with intermittent demand patterns: ADI/CV² demand classification routing SKUs to appropriate models (Croston for intermittent, ensembles for smooth), automated weekly bucket conversion for ERP upload, backtesting framework, and bias monitoring with automatic alerts on systematic over/under-forecasting.
 
 ---
 
-### 📦 Supply Chain Optimization Engine
-**Stack:** Python, Mixed-Integer Programming, scipy.optimize, SAP Integration  
-**Impact:** $2.7M annual cost savings, 20% operational cost reduction
+### 🔀 Multi-Echelon Network Optimization
+**Stack:** Python · scipy.optimize · Mixed-Integer Programming · Scenario simulation
+**Impact:** 5 warehouses → 2 · $1.1M annual savings · 15% inventory turnover improvement
 
-Multi-echelon inventory optimization system:
-- **Optimization Algorithm:** Custom LP/MIP solver for multi-location distribution
-- **Constraints:** Capacity limits, service level requirements, transportation costs
-- **Integration:** Real-time data feeds from SAP Business Objects
-- **Scenario Planning:** Interactive "what-if" analysis for strategic decision support
-- **Visualization:** Power BI dashboards showing optimization results and trade-offs
-
-**Business Impact:**
-- Reduced network footprint from 5 warehouses to 2
-- Improved inventory turnover by 15%
-- Enhanced service levels while reducing costs
+Formulated distribution network as MIP: minimize holding + transportation + facility costs subject to demand satisfaction, capacity limits, and 95%+ service level constraints. Ran scenario analysis (2/3/4-warehouse configurations) with demand uncertainty sensitivity testing. Presented trade-off analysis to C-suite for final decision.
 
 ---
 
-### 🔍 Network Security Analytics Dashboard
-**Stack:** Python, Power BI, SQL, Protocol Analysis  
-**Impact:** Early threat detection, improved incident response time
+### 🧪 A/B Testing & Experimentation Framework
+**Stack:** Python · SciPy · statsmodels · Plotly
+**Impact:** 20+ rigorous experiments monthly · Data-driven campaign decisions
 
-Security-focused monitoring and analytics for telecommunications infrastructure:
-- **Real-time Monitoring:** 20+ security-relevant KPIs tracked continuously
-- **Anomaly Detection:** Statistical methods identifying unusual patterns
-- **Protocol Analysis:** Deep inspection of GTP and Diameter traffic
-- **Alerting:** Automated notifications on threshold breaches or anomalies
-- **Investigation Tools:** Drill-down capabilities for root cause analysis
-
-**Security Applications:**
-- Failed authentication tracking (brute force detection)
-- Configuration change auditing
-- Traffic pattern analysis (potential exploits)
-- Device health monitoring (compromise indicators)
+Institutionalized statistical rigor: hypothesis pre-registration, power analysis (80% power, α=0.05), sample size calculation, proper randomization, multiple-testing corrections (Bonferroni), and confidence interval reporting. Killed vanity metrics; institutionalized incremental lift measurement.
 
 ---
 
-## 🎓 Education
+### 🤖 AI Agent Suite for Operational Intelligence
+**Stack:** Python · LLM APIs (OpenAI/Claude) · Microsoft Copilot · Custom orchestration
+**Impact:** 40% manual analysis time reduction
 
-**Master of Science in Data Science** (Computational Track)  
-*New Jersey Institute of Technology* | GPA: 3.6/4.0 | **Graduated May 2024**
-
-**Relevant Coursework:**
-- Machine Learning & Deep Learning
-- Statistical Modeling & Causal Inference  
-- Time Series Analysis & Forecasting
-- Big Data Technologies & Database Systems
-- Network Security & Cryptography
-- Experimental Design & A/B Testing
-
-**Capstone Project:** Predictive analytics for network capacity planning using ensemble ML methods
+Production AI agents: email intelligence (NLP parsing/categorization of operational requests), forecast validation (predicted vs. actual with auto-alerts), KPI anomaly detection, and configuration compliance checking. Practical GenAI — not demos, but deployed tools handling daily operational load.
 
 ---
 
-**Bachelor of Science in Mathematics & Statistics**  
-*University of Lagos* | **Graduated 2009**
+### 📡 Network Anomaly Detection & Capacity Intelligence
+**Stack:** Python · TensorFlow · Time-series analysis · Real-time pipelines
+**Impact:** 30% downtime reduction · 25% capacity improvement · 2M+ users served
+
+Real-time ingestion of 10M+ daily records, 25+ engineered features (lags, rolling stats, seasonality), ensemble prediction (ARIMA + Prophet + LSTM + XGBoost), achieving MAPE 12% / R² 0.92. Full production lifecycle: automated retraining, drift monitoring, and alerting.
 
 ---
 
-### 🏅 Certifications
-
-- **Network Security Fundamentals** - Security protocols, vulnerability assessment, architecture
-- **ISO 14001:2015 Internal Auditor** - Quality management, process auditing, compliance
-- **Data Science Specialization** - NJIT Professional Development
-
-### 📚 Continuous Learning (In Progress)
-- CompTIA Security+ (Studying)
-- CISSP Preparation
-- AWS Certified Machine Learning - Specialty
-- Splunk Core Certified User
-
----
-## 💡 What Makes Me Different
-
-### 🎯 The Unique Combination
-
-Most data scientists work in one domain. I bring **deep expertise across three critical areas:**
-
-**1️⃣ Data Science Fundamentals (Master's Degree)**
-- Advanced ML algorithms, statistical modeling, deep learning
-- Production-ready model development and deployment
-- Rigorous validation and testing methodologies
-
-**2️⃣ Telecommunications Domain Expertise (12 Years)**
-- RAN architecture, network protocols, 5G technologies
-- Understanding of critical infrastructure and security challenges
-- Real-world experience with complex distributed systems
-
-**3️⃣ Supply Chain & Operations Analytics (Current)**
-- Inventory optimization, demand forecasting, network design
-- Cross-functional business leadership
-- Executive communication and strategic decision support
-
-**This rare combination means I can:**
-- Build sophisticated models AND understand the domain deeply
-- Translate technical findings into business value
-- Work effectively across engineering, operations, and business teams
-- Apply data science to complex, mission-critical systems
-- See security, performance, and business optimization holistically
-
----
-## 🔬 Areas of Interest & Active Learning
+## 🧠 How I Work — Modern DS Practice
 
 ```python
-professional_interests = {
-    "Data Science Applications": [
-        "Time series forecasting in complex systems",
-        "Anomaly detection for security and operations",
-        "Causal inference for business impact analysis",
-        "MLOps and production model deployment",
-        "AI agents and intelligent automation"
-    ],
-    
-    "Domain Specializations": [
-        "Telecommunications analytics & network security",
-        "Supply chain optimization & forecasting",
-        "IoT and sensor data analytics",
-        "Critical infrastructure security analytics",
-        "Real-time monitoring and alerting systems"
-    ],
-    
-    "Emerging Technologies": [
-        "5G security architecture and analytics",
-        "Edge computing and distributed analytics",
-        "SIEM integration and security automation",
-        "Large language models for operations",
-        "Quantum computing implications"
-    ],
-    
-    "Continuous Learning": [
-        "Security certifications (Security+, CISSP)",
-        "Cloud platforms (AWS ML, Azure Databricks)",
-        "Advanced deep learning techniques",
-        "Graph neural networks",
-        "Reinforcement learning"
+class DataScientist(Professional):
+    """What 'advanced' means to me in 2026 — not just models, but systems."""
+
+    principles = {
+        "business_first": "Start from the decision, work backward to the data",
+        "statistical_rigor": "p-values, power analysis, CIs — no vanity metrics",
+        "production_mindset": "A model in a notebook is a hypothesis, not a product",
+        "explainability": "SHAP > black box when stakeholders must act on it",
+        "genai_pragmatism": "LLMs as tools in the pipeline, not the whole pipeline",
+        "experimentation": "Ship, measure incrementally, kill what doesn't work",
+    }
+
+    current_practice = [
+        "LLM-augmented analytics workflows (RAG, agents, structured extraction)",
+        "MLOps: versioning, monitoring, drift detection, automated retraining",
+        "Causal inference over correlation-chasing (PSM, DiD, synthetic control)",
+        "Hybrid forecasting: statistical + ML ensembles with demand classification",
+        "Decision intelligence: optimization layers on top of predictions",
     ]
-}
+
+    learning_now = [
+        "Agentic AI orchestration for enterprise workflows",
+        "Marketing mix modeling (Bayesian MMM)",
+        "Uplift modeling for treatment-effect targeting",
+        "Vector databases & semantic search in production",
+    ]
 ```
----
-
-## 📝 Writing & Thought Leadership
-
-### Technical Articles (LinkedIn)
-- **"From Network Optimization to Network Security: A Data Scientist's Journey"**
-- **"Applying Machine Learning to Telecommunications Threat Detection"**
-- **"Supply Chain Forecasting: Lessons from Network Capacity Planning"**
-- **"Building Production ML Systems: What Textbooks Don't Teach You"**
-
-### Industry Insights
-- Analysis of January 2026 Verizon 5G SA Core Outage
-- Salt Typhoon Telecom Breach: Security Implications
-- The Role of AI in Modern Supply Chain Operations
-- Data Science Career Transitions: Academia to Industry
-
-[Read More](https://www.linkedin.com/in/ibrahimfenola)
 
 ---
 
-## 🌐 Technical Knowledge Domains
-### Data Science & ML
-`Supervised Learning` `Unsupervised Learning` `Deep Learning` `Time Series` `NLP` `Computer Vision` `Feature Engineering` `Model Deployment` `A/B Testing` `Causal Inference` `Bayesian Statistics` `Ensemble Methods`
+## 🎓 Education & Credentials
 
-### Software Engineering
-`Python` `R` `SQL` `Git` `Docker` `CI/CD` `API Development` `ETL Pipelines` `Data Warehousing` `Cloud Computing` `Linux/Unix` `Shell Scripting`
+**MS, Data Science** (Computational Track) — *New Jersey Institute of Technology* | GPA 3.6 | May 2024
+> Machine Learning · Deep Learning · Causal Inference · Experimental Design · Big Data Systems · Time Series
 
-### Business Domains
-`Telecommunications` `Supply Chain` `Network Security` `Inventory Management` `Demand Forecasting` `Operations Research` `Process Optimization` `Risk Management`
+**BS, Mathematics & Statistics** — *University of Lagos* | 2009
 
-### Specialized Tools
-`SAP Business Objects` `Power BI` `Tableau` `Jupyter` `Splunk` `Wireshark` `TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` `Prophet` `Keras`
+**Certifications:** ISO 14001:2015 Internal Auditor · Network Security Fundamentals · NJIT Data Science Specialization
+
+**In Progress:** AWS ML Specialty · Advanced Bayesian Methods
 
 ---
 
-## 📈 GitHub Activity
+## 🗺️ Domain × Skill Matrix
+
+| Capability | Marketing/Customer | Supply Chain | Telecom/Network |
+|---|:---:|:---:|:---:|
+| Predictive Modeling | ✅ Propensity, churn, CLV | ✅ Demand, safety stock | ✅ Capacity, failures |
+| Time Series Forecasting | ✅ Campaign demand | ✅✅ Core expertise | ✅✅ Core expertise |
+| Optimization (LP/MIP) | ✅ Budget allocation | ✅✅ Network design | ✅ Resource allocation |
+| Experimentation/Causal | ✅✅ A/B, PSM, DiD | ✅ Policy evaluation | ✅ Rollout testing |
+| Anomaly Detection | ✅ Campaign metrics | ✅ Demand signals | ✅✅ Real-time systems |
+| Segmentation/Clustering | ✅✅ Customer segments | ✅ ABC/XYZ SKUs | ✅ Site profiling |
+| GenAI/LLM Applications | ✅ Content & scoring | ✅ Ops automation | ✅ Log intelligence |
+| Executive Communication | ✅✅ C-suite reporting | ✅✅ S&OP leadership | ✅ Ops reviews |
+
+*✅✅ = deep production experience · ✅ = hands-on applied experience*
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -378,54 +313,24 @@ professional_interests = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenola&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
+
 ---
 
-## 🤝 Open To Opportunities
+## 🤝 Open To
 
-I'm interested in roles where I can leverage my unique combination of data science expertise and deep domain knowledge:
+**Roles:** Senior/Staff Data Scientist · Marketing Data Scientist · ML Engineer · Analytics Manager · Supply Chain Data Scientist · Decision Science roles
 
-### 🎯 Primary Interests
-**Data Science & Analytics:**
-- Senior Data Scientist / Staff Data Scientist
-- Machine Learning Engineer
-- Analytics Manager / Director of Analytics
-- Business Intelligence Architect
-- Quantitative Analyst
+**Conversations about:** Propensity & uplift modeling · Forecasting at scale · Causal inference in business · GenAI in production workflows · Career pivots into DS
 
-**Telecommunications & Network:**
-- RAN Network Security Engineer
-- Network Analytics Specialist
-- Telecommunications Data Scientist
-- Security Analytics Engineer
-- Network Performance Engineer
-
-**Supply Chain & Operations:**
-- Supply Chain Data Scientist
-- Demand Planning Manager
-- Operations Research Analyst
-- Optimization Specialist
-
-### 💬 Let's Discuss
-
-- Machine learning applications in complex systems
-- Telecom network security analytics
-- Supply chain optimization challenges
-- Career transitions in data science
-- Building production ML systems
-- AI automation and intelligent agents
----
 <div align="center">
-
-### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimfenola)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibolayinka@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fenola)
 
 ---
-**"Turning Complex Data into Clear Insights, Complex Systems into Secure Operations"**
----
+
+**"The domains change. The discipline doesn't: signal from noise, decisions from signal, value from decisions."**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=fenola&color=brightgreen&style=for-the-badge)
 
 </div>
----
