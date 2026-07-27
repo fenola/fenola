@@ -9,7 +9,7 @@
 
 **Turning Complex Data Into Decisions That Move Revenue, Customers & Operations**
 
-*16+ Years | 3 Industries | $2.4M+ Quantified Business Impact | Production ML Systems*
+*16+ Years | 3 Industries | $5.4M+ Quantified Business Impact | Production ML Systems*
 
 </div>
 
