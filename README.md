@@ -9,7 +9,7 @@
 
 **Turning Complex Data Into Decisions That Move Revenue, Customers & Operations**
 
-*12+ Years | 3 Industries | $2.4M+ Quantified Business Impact | Production ML Systems*
+*16+ Years | 3 Industries | $2.4M+ Quantified Business Impact | Production ML Systems*
 
 </div>
 
@@ -22,7 +22,7 @@ timeline
     title From Network Signals to Business Signals — A Data Science Evolution
     2010-2022 : Telecommunications (Nokia, Ericsson, Huawei)
               : RAN Optimization → Network Analytics
-              : 10M+ records daily, 1500+ cell sites
+              : 10M+ records daily, 3500+ cell sites
               : Built statistical & ML foundations at massive scale
     2022-2024 : Career Pivot + MS Data Science (NJIT)
               : Supply Chain Analytics at TotalEnergies
@@ -31,7 +31,7 @@ timeline
     2023-Now  : Planning Manager — Full-Stack Data Science
               : Customer analytics & campaign optimization
               : Production ML, AI agents, executive analytics
-              : $2.4M business value delivered
+              : $5.4M business value delivered
     Next      : Senior/Staff Data Scientist
               : Marketing Science • GenAI Applications
               : Building systems that scale decisions
@@ -138,7 +138,7 @@ timeline
 | 🤖 Manual analysis time saved via automation | **-40%** | All |
 | 📦 Inventory reduction | **$5M** ($13M → $8M) | Supply Chain |
 | 🗃️ Largest daily data volume handled | **10M+ records** | Telecom |
-| 👥 Customers/SKUs modeled | **1M+ / 1,500+** | Marketing/SC |
+| 👥 Customers/SKUs modeled | **4M+ / 1,500+** | Marketing/SC |
 
 ---
 
